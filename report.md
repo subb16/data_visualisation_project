@@ -55,3 +55,72 @@ Further research and targeted interventions aimed at improving access to educati
 
 
 * Overall, the analysis of domicile information highlights the complex interplay of socioeconomic, cultural, and legal factors influencing crime rates and underscores the importance of targeted interventions tailored to address the specific needs of different regions to effectively combat crime and promote community safety and well-being.
+
+# Age Groups
+
+The age distribution among criminals underscores a notable trend where approximately 30% fall within the 18 to 30-year-old bracket, indicative of a significant presence of younger individuals in the prison system. Moreover, a substantial portion, around 50%, comprises offenders aged between 30 and 50 years. Notably, some regions exhibit a disproportionately higher concentration of offenders aged 18 to 30, suggesting potential localized factors contributing to criminal activity among younger demographics. Understanding these variations is crucial for devising targeted interventions and rehabilitation programs tailored to different age groups. By addressing the underlying socioeconomic and environmental factors influencing criminal behavior, authorities can effectively mitigate crime rates and promote societal reintegration.
+
+<img src = "plots/age_distribution_all_india.png" height = 400 width = 1000>
+
+<img src = "plots/18_to_30_age_group.png" height = 400 width = 500> <img src = "plots/30_to_50_age.png" height = 400 width = 500> <img src = "plots/50_and_above_age.png" height = 400 width = 500> 
+
+# Types of Offences
+
+## What are the common types of offences criminals are prisoned for
+
+Let's look at the distribution of major crime categories using a pie chart and bar graph in an ALL India scale
+
+<img src = "plots/crime_distribution_pie.png" height = 350 width = 900>
+<img src = "plots/crime_distribution.png" height = 400 width = 900>
+Conclusions on the Types of Offenses Committed by Prisoners:
+
+1. Prevalence of Crimes Against Human Body: The data highlights that the majority of offenses committed by prisoners revolve around crimes against the human body, constituting approximately 68.4% of the cases studied. This category encompasses a wide range of offenses including murders which visibly constitutes the highest numbers followed by attempt to murder and rapes also homicide, and related violent crimes, underscoring the significance of addressing violence prevention and victim support initiatives within correctional facilities. 
+
+<img src = "plots/crimes_human_body_all_india.png" height = 400 width = 800>
+
+2. Significance of Property-related Offenses: Nearly 28.5% of the recorded offenses are related to crimes affecting properties. These offenses may include burglary, theft, vandalism, and other forms of property damage. Addressing these crimes not only involves punishment but also efforts towards rehabilitation and skill-building to deter recidivism and promote productive reintegration into society upon release.
+
+<img src = "plots/crime_affecting_property_all_india.png" height = 400 width = 800>
+
+3. Attention to Crimes Against Women: Despite forming a smaller percentage at 1.7%, crimes against women warrant specific attention due to their sensitive nature and potential long-term impact on individuals and communities. Strategies aimed at preventing gender-based violence and providing support services for survivors should be integral components of rehabilitation programs within correctional settings.
+
+4. Mitigating Riots and Disorder: Although accounting for a relatively small percentage at 0.8%, incidents of riots within prisons can have significant implications for the safety and security of both inmates and staff. Measures to address underlying causes such as overcrowding, inadequate resources, and tensions among incarcerated individuals are essential for maintaining order and fostering a conducive environment for rehabilitation.
+
+5. Combatting Counterfeiting: While constituting only 0.5% of the offenses, counterfeiting remains a noteworthy concern within correctional facilities. Efforts to combat counterfeiting not only involve enforcement actions but also educational initiatives to raise awareness about the consequences of engaging in fraudulent activities.
+
+In conclusion, understanding the distribution and nature of offenses committed by prisoners is essential for designing effective policies and interventions aimed at promoting rehabilitation, reducing recidivism, and fostering safer communities. Addressing the diverse range of offenses requires a multi-faceted approach that integrates punishment, rehabilitation, and community support to facilitate the successful reintegration of individuals into society.
+
+### Distribution of Offence against Human Body and Affecting Property for top 6 states
+
+<img src = "plots/crime_against_humans_top_6_states_faceted.png" height = 600 width = 900>
+
+<img src = "plots/crimes_affecting_protperty_top6_states.png" height = 600 width = 900>
+
+# Religion 
+
+<img src = "plots/religion_distribution.png" height = 400 width = 1000>
+
+
+* The analysis of religious demographics among incarcerated individuals reveals a proportional distribution reflective of the broader population composition. Hindus comprise the largest proportion at 75%, followed by Muslims at 18%, Christians at 3%, and Sikhs at 2%.
+
+* The alignment of these figures with general population ratios suggests that criminal behavior is not inherently tied to any specific religious affiliation. Rather, it underscores the universal nature of crime and the need for comprehensive strategies to address its root causes across all segments of society.
+
+**Furthermore** , it's imperative to emphasize that religion itself is not a determinant of criminal behavior. While faith-based initiatives may play a role in rehabilitation and moral guidance for some individuals, effective interventions must be inclusive and respect the diverse religious beliefs and cultural backgrounds of incarcerated individuals.
+
+# Gender 
+
+<img src = "plots/undertrial_convicts_detenues.png" height = 400 width = 1000> 
+
+# Conclusion
+
+In conclusion, this report sheds light on various aspects of prisoner information in India, offering valuable insights into the intricate dynamics of the criminal justice system. Through comprehensive analysis and visualization, we've delved into crucial themes such as educational background, domicile information, age distribution, types of offenses, religion, and gender demographics among incarcerated individuals.
+
+The analysis of educational backgrounds underscores the potential correlation between lower levels of education and involvement in criminal activities, emphasizing the importance of addressing educational disparities as a preventive measure against crime. Additionally, examining domicile information reveals insights into migration patterns and regional socioeconomic factors influencing crime rates.
+
+Age distribution among prisoners highlights the prevalence of younger individuals within the prison system, necessitating targeted interventions tailored to different age groups for effective rehabilitation and crime prevention. Moreover, the examination of offense types underscores the need for multifaceted approaches to address various forms of criminal behavior, from crimes against the human body to property-related offenses and crimes against women.
+
+Religious demographics among prisoners reflect a proportional distribution reflective of the broader population, emphasizing the universal nature of crime irrespective of religious affiliation. Lastly, the gender distribution among prisoners showcases a consistent ratio across convicted individuals, undertrials, and detainees, indicating the importance of gender-responsive approaches within the criminal justice system.
+
+This report underscores the power of data visualization in uncovering nuanced insights. By leveraging data-driven approaches, we can strive towards a more equitable and effective criminal justice system that upholds principles of fairness, dignity, and human rights for all individuals involved.
+
+
